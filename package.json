@@ -6,7 +6,7 @@
   "bugs": "https://github.com/postmanlabs/newman/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/postmanlabs/newman.git"
+    "url": "https://github.com/allienn/newman.git"
   },
   "keywords": [
     "newman",
@@ -19,7 +19,7 @@
   ],
   "main": "index.js",
   "bin": {
-    "newman": "./bin/newman.js"
+    "nsnewman": "./bin/newman.js"
   },
   "preferGlobal": true,
   "scripts": {

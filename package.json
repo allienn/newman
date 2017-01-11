@@ -19,7 +19,7 @@
   ],
   "main": "index.js",
   "bin": {
-    "nsnewman": "./bin/newman.js"
+    "nsnewman": "./bin/nsnewman.js"
   },
   "preferGlobal": true,
   "scripts": {

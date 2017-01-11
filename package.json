@@ -1,5 +1,5 @@
 {
-  "name": "newman",
+  "name": "newman_custom",
   "version": "3.4.2",
   "description": "Command-line companion utility for Postman",
   "homepage": "https://github.com/postmanlabs/newman",
